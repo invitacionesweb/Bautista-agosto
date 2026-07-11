@@ -94,6 +94,7 @@ header .header-info {
 }
 .fecha {
     width: 100%;
+    max-width: 600px;
     padding: auto;
     display: flex;
     align-items: center;
